@@ -1,8 +1,12 @@
 # Project: Python for Beginners: Variables and Strings
 
-This guided project, **"Python for Beginners: Variables and Strings,"** is designed for those new to programming and wanting to learn the basics of Python. The project includes a mini-project focused on **shopping list cost analysis**, where I learned and applied various Python string manipulation techniques. 
+## Project Summary
 
-I completed the project in **Jupyter Notebook**, which allowed me to write and run code while learning key concepts interactively.
+This guided project, "Python for Beginners: Variables and Strings," focuses on key Python programming concepts, including variables, string manipulation, and data processing.
+I learned how to extract and clean data, perform string operations, automate processes using loops, and calculate total costs. 
+Additionally, I used Matplotlib to visualize data, creating bar charts to represent item costs.
+
+The Jupyter Notebook project provided an interactive environment for hands-on experience, allowing me to directly apply Python coding and data analysis skills.
 
 ![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4544).png)
 
