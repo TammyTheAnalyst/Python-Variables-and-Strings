@@ -38,3 +38,23 @@ I worked in **Jupyter Notebook** for this project. It provided an interactive en
 - I became familiar with using **Matplotlib** for **data visualization**, creating a bar chart representing item costs.
 
 This project provided a solid foundation in working with **Python variables**, **strings**, and **data processing**, which I can apply to future projects and real-world scenarios.
+
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4529).png)
+
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4530).png)
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4531).png)
+
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4532).png)
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4534).png)
+
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4535).png)
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4536).png)
+
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4537).png)
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4538).png)
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4539).png)
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4540).png)
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4541).png)
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4542).png)
+
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4543).png)
