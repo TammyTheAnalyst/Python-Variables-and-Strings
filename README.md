@@ -4,7 +4,7 @@ This guided project, **"Python for Beginners: Variables and Strings,"** is desig
 
 I completed the project in **Jupyter Notebook**, which allowed me to write and run code while learning key concepts interactively.
 
-[](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4544).png)
+![](https://github.com/TammyTheAnalyst/Python-Variables-and-Strings/blob/main/Screenshot%20(4544).png)
 
 ## Learning Objectives
 By the end of this project, I was able to:
