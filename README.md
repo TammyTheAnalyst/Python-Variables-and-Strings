@@ -2,9 +2,11 @@
 
 ## Project Summary
 
-This guided project, "Python for Beginners: Variables and Strings," focuses on key Python programming concepts, including variables, string manipulation, and data processing.
-I learned how to extract and clean data, perform string operations, automate processes using loops, and calculate total costs. 
-Additionally, I used Matplotlib to visualize data, creating bar charts to represent item costs.
+This guided project, "Python for Beginners: Variables and Strings," focuses on key Python programming concepts, including **variables**, **string manipulation**, and **data processing**.
+
+I learned how to extract and **clean data**, **perform string operations**, **automate processes using loops**, and **calculate total costs**.
+
+Additionally, I used **Matplotlib** to visualize data, creating bar charts to represent item costs.
 
 The Jupyter Notebook project provided an interactive environment for hands-on experience, allowing me to directly apply Python coding and data analysis skills.
 
